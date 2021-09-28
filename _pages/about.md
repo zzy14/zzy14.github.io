@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). My research interests lie in Pre-trained Models for Natural Language Processing.
+I am a 3rd-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). My research interests lie in Pre-trained Models for Natural Language Processing.
 
 ## Preprint
 
