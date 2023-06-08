@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). My research interests lie in Pre-trained Models for Natural Language Processing.
+I am a 4th-year PhD student in the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). My research interests lie in Pre-trained Models for Natural Language Processing. <strong>I'm currently exploring the job market for new roles.</strong>
 
 <!-- * <strong>Zhengyan Zhang</strong>, Fanchao Qi, Zhiyuan Liu, Qun Liu, Maosong Sun. Know What You Don't Need: Single-Shot Meta-Pruning for Attention Heads. [[arxiv]](https://arxiv.org/abs/2011.03770) -->
 
