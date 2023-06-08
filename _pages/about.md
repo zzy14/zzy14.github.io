@@ -31,7 +31,7 @@ I am a 4th-year PhD student in the Department of Computer Science and Technology
 
 * <strong>Zhengyan Zhang</strong>, Baitao Gong, Yingfa Chen, Xu Han, Guoyang Zeng, Weilin Zhao, Yanxu Chen, Zhiyuan Liu, Maosong Sun. BMCook: A Task-agnostic Compression Toolkit for Big Models. <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP 2022 Demo)</i>. [[pdf]](https://aclanthology.org/2022.emnlp-demos.40.pdf)
 
-* <strong>Zhengyan Zhang</strong>\, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. MoEfication: Transformer Feed-forward Layers are Mixtures of Experts. <i>Findings of ACL 2022</i>. [[pdf]](https://aclanthology.org/2022.findings-acl.71.pdf)
+* <strong>Zhengyan Zhang</strong>, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. MoEfication: Transformer Feed-forward Layers are Mixtures of Experts. <i>Findings of ACL 2022</i>. [[pdf]](https://aclanthology.org/2022.findings-acl.71.pdf)
 
 * <strong>Zhengyan Zhang</strong>, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. AI Open. [[arxiv]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
 
